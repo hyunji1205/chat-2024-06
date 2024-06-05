@@ -1,6 +1,6 @@
 package com.ll.chat_2024_06_03.domain.chat.chatRoom.entity;
 
-import com.ll.chat_2024_06_03.global.jpa.BaseEntity;
+import com.ll.chat_2024_06_03.global.jpa.baseEntity.BaseEntity;
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToOne;
 import lombok.*;

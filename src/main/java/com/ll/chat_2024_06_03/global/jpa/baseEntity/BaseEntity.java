@@ -1,4 +1,4 @@
-package com.ll.chat_2024_06_03.global.jpa;
+package com.ll.chat_2024_06_03.global.jpa.baseEntity;
 
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.GeneratedValue;
